@@ -1,4 +1,3 @@
-https://assetstore.unity.com/packages/2d/gui/icons/2d-casual-ui-hd-82080
 
 # Problem Logger
 
