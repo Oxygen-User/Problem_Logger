@@ -35,6 +35,12 @@ public class ProblemChanger : MonoBehaviour
     }
 
 
+    void Update()
+    {
+        childCount = parentObject.childCount;
+    }
+
+
     public void UpdateChildCount()
     {
         childCount = parentObject.childCount;
