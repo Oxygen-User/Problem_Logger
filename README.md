@@ -49,6 +49,10 @@ Download this whole repository and view the project altogether on unity editor.
 - Making this online.
 - This project would be better if it was made to be a website first then an app using a more optimised engine made for these kinds of stuff but I don't know them yet :)
 
+### AI Declaration
+
+- Used AI to learn how to manage children of a parent object and took some of its code as a *reference*, Meaning that I did everything except for the assets I mentioned earlier.
+
 
 ## In app pictures
 
