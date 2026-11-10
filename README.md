@@ -37,6 +37,8 @@ Download this whole repository and view the project altogether on unity editor.
 - Use "add img" buttons to add up to 2 images to yur log.
 - In edit mode click on the title and the body text to edit them.
 - The text's syntax is same as Unity's TMP, so you can utilize those to create more aesthetic text.
+- Navigate logs using buttons on bottom left and right.
+- Or enter the index of your desired log to the input field on the top right of the screen.
 
 
 ## What Can Be Added To This Project?
